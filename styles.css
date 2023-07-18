@@ -6,6 +6,7 @@
       }
 
       #line{
+		position:absolute;
         height: 2px;
         width: 200px;
         background-color: black;
